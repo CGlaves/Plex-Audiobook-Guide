@@ -183,7 +183,7 @@ If you use both Linux and Windows, I have a Linux script that watches your `/ori
 
 #### Edit the newly copied config files with your specific paths
 * Right click the following provided config files and OPEN WITH Notepad++   
-  * `%APPDATA%\Mp3tag\data\action\&1 Rename Relocate Extras Title.mta` Update lines 3, 15, 22 with the path to your Plex `\Audiobook` folder  
+  * `%APPDATA%\Mp3tag\data\actions\&1 Rename Relocate Extras Title.mta` Update lines 3, 15, 22 with the path to your Plex `\Audiobook` folder  
   * `%APPDATA%\Mp3tag\export\001 Generate.mte` Update line 1 with your windows username `C:\Users\your-username-here\...`  
   * `%APPDATA%\Mp3tag\export\desc.mte` Update line 1 with the path to your Plex `\Audiobook` folder  
   * `%APPDATA%\Mp3tag\export\reader.mte` Update line 1 with the path to your Plex `\Audiobook` folder  
